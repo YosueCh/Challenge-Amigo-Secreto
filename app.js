@@ -12,7 +12,19 @@ function agregarAmigo(){
         amigosList.push(amigo);
         console.log(amigosList);
         document.getElementById('amigo').value = '';
+        actualizarLista();
     }
     return amigosList;
     
+}
+
+function actualizarLista(){
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+
+    for (let amigo of amigosList) {
+        let li = document.createElement('li'); 
+        li.textContent = amigo; 
+        lista.appendChild(li); 
+    }
 }
