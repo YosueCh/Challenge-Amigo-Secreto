@@ -2,8 +2,6 @@
 
 let amigosList = [];
 
-
-
 function agregarAmigo(){
     let amigo = document.getElementById ('amigo').value;
 
@@ -42,7 +40,7 @@ function sortearAmigo(){
         console.log(`Amigo sorteado: ${amigoSorteado}`);
 
         let resultado = document.getElementById('resultado');
-        resultado.innerHTML = `<li>${amigoSorteado}</li>`
+        resultado.innerHTML = `<li>El amigo secreto sorteado es: ${amigoSorteado}</li>`
     }
 
 }
