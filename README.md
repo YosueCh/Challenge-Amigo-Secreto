@@ -22,7 +22,7 @@ Este proyecto es una aplicación web para gestionar un sorteo de **Amigo Secreto
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML** → Estructura de la página.
-- **CSS** → Estilos y diseño responsivo.
+- **CSS** → Estilos y diseño.
 - **JavaScript** → Lógica del sorteo y manipulación del DOM.
 
 
