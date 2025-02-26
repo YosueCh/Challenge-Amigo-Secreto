@@ -11,9 +11,10 @@ Este proyecto es una aplicación web para gestionar un sorteo de **Amigo Secreto
 
 ## 📸 Vista previa
 
-![Vista previa del proyecto](assets/amigo-secreto.png)
+
 ![image](https://github.com/user-attachments/assets/64b9b863-eb8c-4eab-8424-8fabda3ca466)
-![image](https://github.com/user-attachments/assets/cd8866fb-8ac8-4874-9b47-d0ae49578cfd)
+![image](https://github.com/user-attachments/assets/f1ecd274-56b6-4b95-985f-d9f90d4b2757)
+
 
 
 
